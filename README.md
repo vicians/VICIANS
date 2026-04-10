@@ -22,13 +22,6 @@ Sou estudante na Alpha EdTech. Apaixonado por tecnologia, programação e músic
 - **Análise de Dados Olist**: Insights extraídos de um dataset real de e-commerce brasileiro.
 - **Wedding Website**: Site personalizado para o meu casamento com sistema de RSVP e contagem regressiva.
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicians&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicians&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-veronezi-callegaro-6833442a0/)
 
